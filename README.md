@@ -7,7 +7,7 @@ problem solving skills and experience in
 creating new react components, server
 requests and business logic
 
-*MY TECHNICAL SKILLS*
+<!-- *MY TECHNICAL SKILLS*
 - JavaScriprt, ES6
 - React
 - Redux
@@ -16,7 +16,7 @@ requests and business logic
 - HTML, CSS
 - Material UI
 - Git
-- Github, Gitlab
+- Github, Gitlab -->
 
 *EDUCATION*
 
