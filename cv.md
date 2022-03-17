@@ -31,8 +31,14 @@ website for a delivery service, where I
 worked on authorization, layout, backend
 requests and other bugs.
 
+*LANGUAGES*
+- English: intermediate
+- Russian: fluent
+- Kyrgyz: native
+
 *CONTACTS*
 >Tel: +996702382625
 E-mail: abd.aizhana@gmail.com
 Linkedin: Aizhana Abdykalykova
 Gitlab: https://gitlab.com/Aaizhanok
+
